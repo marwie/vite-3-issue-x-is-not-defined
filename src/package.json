@@ -13,8 +13,7 @@
   },
   "dependencies": {
     "three": "^0.145.0",
-    "vite-plugin-compression": "^0.5.1",
-    "nested-package" : "file:./nested-package"
+    "vite-plugin-compression": "^0.5.1"
   },
   "main": "main.js",
   "author": "",
